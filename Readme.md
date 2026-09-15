@@ -1,4 +1,4 @@
-******************Financial Analytics Dashboard***********************
+Financial Analytics Dashboard
 
 A full-stack app to track, visualize, filter, and export financial transactions. Built with React + TypeScript (frontend) and Node.js + Express + MongoDB (backend), secured with JWT auth.
 
